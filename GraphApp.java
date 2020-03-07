@@ -1,6 +1,4 @@
-//Mohamed Eladl
-//ID:1203261
-//CSCI 260
+
 public class GraphApp {
     public static void main(String[] args) {
         Graph theGraph = new Graph();

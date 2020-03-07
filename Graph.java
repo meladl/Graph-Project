@@ -1,6 +1,4 @@
-//Mohamed Eladl
-//ID:1203261
-//CSCI 260
+
 public class Graph {
     private final int MAX_VERTS = 20;
     private Vertex vertexList[]; 
